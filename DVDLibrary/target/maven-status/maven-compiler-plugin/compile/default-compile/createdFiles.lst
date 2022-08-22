@@ -1,0 +1,7 @@
+com\sg\dvdlibrary\App.class
+com\sg\dvdlibrary\ui\UserIOConsoleImpl.class
+com\sg\dvdlibrary\controller\dao\DVDLibraryDao.class
+com\sg\dvdlibrary\controller\dao\DVDLibraryDaoFileImpl.class
+com\sg\dvdlibrary\ui\DVDLibraryView.class
+com\sg\dvdlibrary\ui\UserIO.class
+com\sg\dvdlibrary\controller\DVDLibraryController.class
